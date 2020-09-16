@@ -11,7 +11,7 @@ Need to check and generate reports on the functioning of your scheduled Windows 
 Windows:
 
 ```sh
-Open TaskShedulerHistory.exe
+run as administrator TaskShedulerHistory.exe
 ```
 
 ## Usage example
